@@ -16,7 +16,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=403f2e&show_icons=true&locale=en&layout=compact" alt="403f2e" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=403f2e&show_icons=true&locale=en" alt="403f2e" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=403f2e&show_icons=true&locale=en" alt="403f2e" /></p>!-->
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=403f2e" alt="403f2e" /></a> </p>
 
